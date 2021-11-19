@@ -1,0 +1,60 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "Monsterra",
+      "description": "Monstera is a genus of 45 species of flowering plants in the arum family, Araceae, native to tropical regions of the Americas.",
+      "type": "Arroid",
+      "image": "https://cdn.shopify.com/s/files/1/2858/6430/products/monstera_tropical_foliage_1800x1800.jpg?v=1632246385"
+    },
+    {
+      "id": 2,
+      "name": "Anturium2",
+      "description": "Anthurium is a genus of about 1,000 species of flowering plants, the largest genus of the arum family, Araceae. ",
+      "type": "Arroid",
+      "image": "https://www.gardeningknowhow.com/wp-content/uploads/2020/11/red-anthurium-flowers.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Spatifillum",
+      "description": "Spathiphyllum is a genus of about 47 species of monocotyledonous flowering plants in the family Araceae.",
+      "type": "Arroid",
+      "image": "https://cvecaraelite.rs/wp-content/uploads/2020/03/d8783acb42d86cd349abb824fcabc1a1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tradescantia Zebrina",
+      "description": "Tradescantia zebrina, formerly known as Zebrina pendula, is a species of spiderwort. It is sometimes known as inch plant, but its preferred common name is wandering jew.",
+      "type": "Spiderwort",
+      "image": "https://images.squarespace-cdn.com/content/v1/58cfd3b3ff7c501ac4387b35/1543349354741-FIMZ64ZN2EP9405NA8CR/How-to-Care-for-a-Zebrina-Plant.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cactus Cereus",
+      "description": "Cereus is a genus of cacti including around 33 species of large columnar cacti from South America. The name is derived from Greek and Latin words meaning .",
+      "type": "Cactus",
+      "image": "https://www.giromagicactus.com/wp-content/uploads/2016/06/Cereus-florida-1024x1024.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chrysanthemum",
+      "description": "Chrysanthemums, sometimes called mums or chrysanths, are flowering plants of the genus Chrysanthemum in the family Asteraceae. ",
+      "type": "Asteraceae",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Chrysanthemum_%280883%29-Relic38.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Bull-de-Neige",
+      "description": "Boule de Neige is a mound-forming, evergreen shrub with ovate to obovate, dark green leaves and spherical clusters of wavy, funnel-shaped, lightly spotted, white flowers in mid-spring",
+      "type": "Rhododendron ",
+      "image": "https://cdn.shopify.com/s/files/1/0021/3129/6368/products/Diapositive1_05014c6c-5d5f-4580-9c0c-7195f0bff1de_800x.jpg?v=1572188965"
+    },
+    {
+      "id": 8,
+      "name": "Croton",
+      "description": "Croton is an extensive flowering plant genus in the spurge family, Euphorbiaceae. The plants of this genus were described and introduced to Europeans by Georg Eberhard Rumphius ",
+      "type": "Euphorbiaceae",
+      "image": "https://www.plantandflowerinfo.com/images/croton-houseplantOG.jpg"
+    }
+  ]
+}
